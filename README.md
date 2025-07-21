@@ -11,7 +11,7 @@ A safety alignment toolkit for localizing hateful content in generated images us
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/hate-token-localizer.git
+git clone https://github.com/nasrinimapour/hate-token-localizer.git
 cd hate-token-localizer
 pip install .
 ```
