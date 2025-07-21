@@ -1,0 +1,7 @@
+README.md
+setup.py
+hate_token_localizer.egg-info/PKG-INFO
+hate_token_localizer.egg-info/SOURCES.txt
+hate_token_localizer.egg-info/dependency_links.txt
+hate_token_localizer.egg-info/requires.txt
+hate_token_localizer.egg-info/top_level.txt

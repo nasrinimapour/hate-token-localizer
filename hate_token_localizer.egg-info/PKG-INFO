@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: hate-token-localizer
+Version: 0.1.0
+Summary: Localize hateful content in images using tokenization and CLIP similarity.
+Home-page: https://github.com/nasrinimanpour/hate-token-localizer
+Author: Nasrin
+Author-email: nasrin.imanpour@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: clip-by-openai
+Requires-Dist: taming-transformers
+Requires-Dist: omegaconf
+Requires-Dist: Pillow
+Requires-Dist: numpy

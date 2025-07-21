@@ -1,0 +1,5 @@
+clip-by-openai
+taming-transformers
+omegaconf
+Pillow
+numpy
