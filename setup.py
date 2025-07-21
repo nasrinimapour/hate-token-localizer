@@ -4,8 +4,13 @@ setup(
     name="hate-token-localizer",
     version="0.1.0",
     description="Localize hateful content in images using tokenization and CLIP similarity.",
+<<<<<<< HEAD
     author="Nasrin",
     author_email="nasrin.imanpour@gmail.com",
+=======
+    author="Your Name",
+    author_email="you@example.com",
+>>>>>>> 935e13ea1b7c60a1665688b947f3c9c8b5b405a9
     url="https://github.com/nasrinimanpour/hate-token-localizer",
     packages=find_packages(include=["src", "src.*"]),
     install_requires=[
