@@ -45,15 +45,3 @@ out.show()
 ```
 
 ---
-
-# hate_token_localizer/requirements.txt
-
-torch
-clip-by-openai
-taming-transformers
-omegaconf
-Pillow
-numpy
-torchvision
-
----
